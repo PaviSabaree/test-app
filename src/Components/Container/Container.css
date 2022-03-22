@@ -1,0 +1,17 @@
+.container {
+    margin-top: 35px;
+    margin-left:200px ;
+    width: 1200px;
+    height: 100px;
+   
+}
+.sub-container ul li {
+    
+    display: inline-block;
+    text-align: center;
+    padding: 25px;
+}
+.sub-container a{
+    text-decoration: none;
+    color: #000;
+}

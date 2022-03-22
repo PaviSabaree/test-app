@@ -1,0 +1,37 @@
+.navbar {
+ 
+   margin-top: 25px;
+    padding: 0;
+   margin-right:1400px;
+  
+   background-color: rgba(20, 22, 20, 0.8);
+  
+}
+
+.navbar a {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    
+}
+.topnav ul{
+    list-style-type: none;
+    display: block;
+    height: 1px;
+}
+
+.topnav ul a{
+    padding-top: 25px;
+    color: #ffff;
+}
+.bottomnav{
+    background-color: blue;
+    margin-top: 575px;
+    height: 85px;
+    width: 250px;
+}
+.bottomnav ul {
+    list-style-type: none;
+    color: #ffff;
+   
+}
